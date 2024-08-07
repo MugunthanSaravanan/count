@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.camera-preview {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.animal-counts {
+  flex: 1;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
