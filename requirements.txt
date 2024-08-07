@@ -1,5 +1,6 @@
 Flask==2.1.2
 torch==2.3.1
-numpy==1.24.4  # Updated to a version compatible with Python 3.11.9
+numpy==1.24.4
 Pillow==8.3.1
 flask-cors==3.0.10
+Werkzeug==2.0.3  # Added a compatible Werkzeug version
